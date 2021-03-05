@@ -3,7 +3,7 @@
  * Esta clase implementar� todos los m�todos que est�n relacionados con la resta de una calculadora.
  * de la calculadora.
  * ESTA CLASE ACEPTA NUMEROS NEGATIVOS
- *aa
+ *
  * 
  * @author David lara gonzalez
  * @version 2.1
@@ -11,6 +11,9 @@
  */
 public class Resta {
 
+
+
+	// estoy probando cambios y viendo como se sincroniza con GitHub
 		
 	/**
 	 * 
