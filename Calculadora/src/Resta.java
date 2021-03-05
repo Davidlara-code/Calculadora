@@ -1,9 +1,9 @@
 /**
  * 
- * Esta clase implementará todos los métodos que están relacionados con la resta de una calculadora.
+ * Esta clase implementarï¿½ todos los mï¿½todos que estï¿½n relacionados con la resta de una calculadora.
  * de la calculadora.
  * ESTA CLASE ACEPTA NUMEROS NEGATIVOS
- *
+ *aa
  * 
  * @author David lara gonzalez
  * @version 2.1
@@ -14,7 +14,7 @@ public class Resta {
 		
 	/**
 	 * 
-	 * Método que devuelve la resta de dos numeros reales
+	 * Mï¿½todo que devuelve la resta de dos numeros reales
 	 * 
 	 * @param a variable que utilizo.
 	 * 
@@ -36,7 +36,7 @@ public class Resta {
 
 	/**
 	 * 
-	 * Método que devuelve la resta de numeros reales
+	 * Mï¿½todo que devuelve la resta de numeros reales
 	 * 
 	 * @param a variable que utilizo.
 	 * 
@@ -55,7 +55,7 @@ public class Resta {
 
 	/**
 	 * 
-	 * Método que devuelve la resta de tres numeros reales.
+	 * Mï¿½todo que devuelve la resta de tres numeros reales.
 	 * 
 	 * @param a variable que utilizo.
 	 * 
@@ -75,7 +75,7 @@ public class Resta {
 
 	/**
 	 * 
-	 * Método que devuelve la resta de dos numeros reales acumulados.
+	 * Mï¿½todo que devuelve la resta de dos numeros reales acumulados.
 	 * 
 	 * @param a variable que utilizo.
 	 * 
